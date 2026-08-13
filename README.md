@@ -1,6 +1,6 @@
 # VintageBeGone
 
-A small client-side SPT/BepInEx plugin that controls the `CC_Vintage` camera effect on every loaded camera.
+A small client-side SPT/BepInEx plugin for **SPT 4.0.13** that controls the `CC_Vintage` camera effect on every loaded camera.
 
 ## Setting
 
