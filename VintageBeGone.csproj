@@ -5,7 +5,7 @@
     <Nullable>disable</Nullable>
     <AssemblyName>VintageBeGone</AssemblyName>
     <RootNamespace>VintageBeGone</RootNamespace>
-    <SptPath Condition="'$(SptPath)' == ''">D:\Tarkov-SPT</SptPath>
+    <SptPath Condition="'$(SptPath)' == ''">D:\Tarkov-SPT-4.1</SptPath>
     <AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>
     <CopyLocalLockFileAssemblies>false</CopyLocalLockFileAssemblies>
   </PropertyGroup>

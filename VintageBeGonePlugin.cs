@@ -12,7 +12,7 @@ namespace VintageBeGone
     {
         public const string PluginGuid = "com.rootd.vintagebegone";
         public const string PluginName = "VintageBeGone";
-        public const string PluginVersion = "1.0.0";
+        public const string PluginVersion = "1.0.1";
 
         private readonly HashSet<CC_Vintage> _disabledByPlugin = new HashSet<CC_Vintage>();
         private readonly Dictionary<int, CameraEffects> _cameraEffects = new Dictionary<int, CameraEffects>();
